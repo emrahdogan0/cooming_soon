@@ -9,7 +9,7 @@ export default function Home() {
     <div>
       <Navbar />
       <main>
-        <div className="flex w-full flex-row justify-center items-center bg-black">
+        <div className="flex w-full flex-row justify-center items-center">
           <div
             className="mt-24 mb-4 w-[1200px]"
             id="company_video"
