@@ -103,7 +103,7 @@ export default function Footer() {
                 </div>
             </div> */}
             <div className="flex flex-col items-center gap-8 sm:flex-row sm:justify-center sm:gap-4">
-                <div className="flex justify-center gap-8">
+                <div className="flex justify-center gap-8 sm:gap-4">
                     <div>
                         <a target="_blank" href="https://www.instagram.com/qzensdesign/">
                             <img src="/instagram-logo.png" className="h-[28px] w-[28px]" alt="Instagram Logo" />
@@ -120,7 +120,7 @@ export default function Footer() {
                         </a>
                     </div>
                 </div>
-                <div className="flex justify-center gap-8">
+                <div className="flex justify-center gap-8 sm:gap-4">
                     <div>
                         <a target="_blank" href="https://www.youtube.com/@QZENSDESIGN">
                             <img src="/youtube-logo.png" className="h-[28px] w-[28px]" alt="YouTube Logo" />
