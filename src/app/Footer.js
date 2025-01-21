@@ -5,7 +5,7 @@ export default function Footer() {
         <footer className="mt-10 w-full">
             <div className="relative flex items-center justify-center my-8">
                 <div className="flex-[3] h-px bg-gray-600 border border-gray-600"></div>
-                <span className="mx-4 font-aksara font-light text-[16px] leading-[44px] tracking-[12px] text-gray-600 flex items-center sm:text-[26px] sm:tracking-[22px] sm:leading-[44px]">
+                <span className="mx-4 font-aksara font-light text-[16px] leading-[44px] tracking-[8px] text-gray-600 flex items-center sm:text-[26px] sm:tracking-[12px] sm:leading-[44px]">
                     COMING  SOON
                 </span>
                 <div className="flex-[3] h-px bg-gray-600 border border-gray-600"></div>
