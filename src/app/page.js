@@ -15,7 +15,7 @@ export default function Home() {
             id="company_video"
           >
             <HTML5Player
-              videoSrc="https://storage.googleapis.com/qzens_website/videos/Qzens_Coming_Soon_16_9.mp4"
+              videoSrc="https://storage.googleapis.com/qzens_website/videos/Qzens_Coming_Soon_16_9_LQ.mp4"
               sectionId="cooming_soon"
             />
           </div>
