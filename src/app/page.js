@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import ReactVideoPlayer from "./ReactVideoPlayer";
+import HTML5Player from "./HTML5Player";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 
@@ -14,7 +14,7 @@ export default function Home() {
             className="mt-24 mb-4 w-[1200px]"
             id="company_video"
           >
-            <ReactVideoPlayer
+            <HTML5Player
               videoSrc="https://storage.googleapis.com/qzens_website/videos/Qzens_Coming_Soon_16_9_LQ.mp4"
               sectionId="cooming_soon"
             />
